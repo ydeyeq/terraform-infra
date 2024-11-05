@@ -13,7 +13,7 @@ Terraform.tf configuration file contains the providers information and neccesary
 
 NOTE: The value of the variable do_token can be passed using environment variables by 
 running the command: export TF_VAR_do_token=<personal.access.token> 
-(replace <personal.access.token> with your DO PAT.
+(replace <personal.access.token> with your DO PAT).
 
 This is my first terraform project. Do well to drop a comment😇
 
