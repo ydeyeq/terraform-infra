@@ -16,3 +16,8 @@ running the command: export TF_VAR_do_token=<personal.access.token>
 (replace <personal.access.token> with your DO PAT.
 
 This is my first terraform project. Do well to drop a comment😇
+
+Checkout my other repos. 
+1. If you want to see how I built a docker image and plublished it to the Github container repository using github actions. https://github.com/ydeyeq/node-app-http-docker/actions
+2. If you want to see the manifest files I used to deploy a simple test application to my kubernestes cluster.
+https://github.com/ydeyeq/node-app-deployment-repo
